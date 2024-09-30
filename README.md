@@ -16,3 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ![image alt](https://github.com/MbongiseniNtimane/QUEJOBS-v1.0/blob/fab9ebcf896b20491b66326efee2ef0cfb408acf/Screenshot%20(302).png)
 ![image alt](https://github.com/MbongiseniNtimane/QUEJOBS-v1.0/blob/cb6d53e063421deb1369275f071e75e9bee7a03d/Screenshot%20(308).png)
+![image alt](https://github.com/MbongiseniNtimane/QUEJOBS-v1.0/blob/f3565058c3d8437c6da72de9e6201731eaa88556/Screenshot%20(306).png)
